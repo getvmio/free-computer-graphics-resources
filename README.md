@@ -1,5 +1,9 @@
 # Computer Graphics Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 🎨 Bring your visual ideas to life with our Computer Graphics Studio! This repository offers a comprehensive collection of free resources on 2D and 3D graphics programming. With courses and an online Playground, it's perfect for aspiring game developers, UI designers, and visual computing enthusiasts.
 
 ## Resources
